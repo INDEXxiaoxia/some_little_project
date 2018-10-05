@@ -1,0 +1,3 @@
+# some_little_project
+学习中做的一些小项目
+英译英辞典和httpserver
